@@ -1,1 +1,1 @@
-Testing GitHub token access
+{"encoding": "base64", "content": "VGVzdGluZyBHaXRIdWIgYWNjZXNz"}
