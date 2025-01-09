@@ -1,11 +1,1 @@
-# System Architecture
-
-## Components
-1. Memory Service
-2. User Profile Service
-3. Analytics Service
-
-## Technical Stack
-- Event-driven architecture
-- Microservices approach
-- Version control for memory states
+{"encoding": "base64", "content": "IyBTeXN0ZW0gQXJjaGl0ZWN0dXJlCgojIyBDb21wb25lbnRzCjEuIE1lbW9yeSBTZXJ2aWNlCjIuIFVzZXIgUHJvZmlsZSBTZXJ2aWNlCjMuIEFuYWx5dGljcyBTZXJ2aWNlCgojIyBUZWNobmljYWwgU3RhY2sKLSBFdmVudC1kcml2ZW4gYXJjaGl0ZWN0dXJlCi0gTWljcm9zZXJ2aWNlcyBhcHByb2FjaAotIFZlcnNpb24gY29udHJvbCBmb3IgbWVtb3J5IHN0YXRlcw=="}
