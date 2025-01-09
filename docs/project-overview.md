@@ -1,15 +1,15 @@
-# AutoCreatorX
+# Project Overview
 
-## Vision
-AI-powered memory system for persistent user interaction tracking.
+## Purpose
+AI-powered memory system for tracking user interactions and relationships
 
 ## Core Features
-- User identification
-- Memory categories (Identity, Behaviors, Preferences, Goals, Relationships)
+- User identification and tracking
+- Memory categorization (Identity, Behaviors, Preferences, Goals, Relationships)
 - Persistent storage
-- Analytics
+- Analytics and insights
 
 ## Project Status
-- Repository initialized
-- Documentation structure created
-- Basic architecture defined
+- Initial repository setup
+- Documentation in progress
+- Architecture planning phase
